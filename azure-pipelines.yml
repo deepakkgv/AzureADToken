@@ -1,0 +1,48 @@
+# Deploy to Azure Kubernetes Service
+# Build and push image to Azure Container Registry; Deploy to Azure Kubernetes Service
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+- develop
+
+resources:
+- repo: self
+
+variables:
+  # Container registry service connection established during pipeline creation
+  dockerfilePath: '**/Dockerfile'
+  tag: '$(Build.BuildId)'
+  imageName: 'azureadtokenapi'
+
+  # Agent VM image name
+  vmImageName: 'ubuntu-latest'
+
+stages:
+- stage: Build
+  displayName: Build DevOps base image
+  jobs:
+  - job: Build
+    steps:
+    - task: Docker@2
+      displayName: Build
+      inputs:
+        repository: $(imageName)
+        command: 'build'
+        Dockerfile: $(dockerfilePath)
+        tags: $(tag)
+    - task: Bash@3
+      displayName: Save Docker Image
+      inputs:
+        targetType: 'inline'
+        script: |
+          docker save $(imageName):$(tag) -o $(Build.ArtifactStagingDirectory)/azureadtokenapi.tar
+    - task: PublishPipelineArtifact@1
+      inputs:
+        targetPath: '$(Build.ArtifactStagingDirectory)/azureadtokenapi.tar'
+        artifact: 'MY_ARTIFACT'
+    - upload: manifests
+    
+
+
+
+

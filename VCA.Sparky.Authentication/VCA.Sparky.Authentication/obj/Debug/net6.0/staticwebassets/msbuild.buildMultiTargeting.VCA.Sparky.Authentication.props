@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VCA.Sparky.Authentication.props" />
+</Project>

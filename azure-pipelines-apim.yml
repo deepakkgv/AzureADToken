@@ -1,0 +1,10 @@
+trigger:
+  branches:
+    include:
+    - develop
+  paths:
+    include:
+    - Swagger/aadtoken.swagger.json
+
+steps:
+- upload: Swagger

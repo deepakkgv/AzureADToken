@@ -1,0 +1,84 @@
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\appsettings.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.exe
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.deps.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.runtimeconfig.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.dll
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.pdb
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.AssemblyReference.cache
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.AssemblyInfoInputs.cache
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.AssemblyInfo.cs
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.CoreCompileInputs.cache
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.VCA.Sparky.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.VCA.Sparky.Authentication.props
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VCA.Sparky.Authentication.props
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VCA.Sparky.Authentication.props
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\scopedcss\bundle\VCA.Sparky.Authentication.styles.css
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.CopyComplete
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.dll
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\refint\VCA.Sparky.Authentication.dll
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.pdb
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.genruntimeconfig.cache
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\ref\VCA.Sparky.Authentication.dll
+D:\VCA\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\appsettings.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.exe
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.deps.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.runtimeconfig.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.dll
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.pdb
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.AssemblyReference.cache
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.AssemblyInfoInputs.cache
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.AssemblyInfo.cs
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.CoreCompileInputs.cache
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.VCA.Sparky.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.VCA.Sparky.Authentication.props
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VCA.Sparky.Authentication.props
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VCA.Sparky.Authentication.props
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\scopedcss\bundle\VCA.Sparky.Authentication.styles.css
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.CopyComplete
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.dll
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\refint\VCA.Sparky.Authentication.dll
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.pdb
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.genruntimeconfig.cache
+D:\VCA\Dev\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\ref\VCA.Sparky.Authentication.dll
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\appsettings.Development.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\appsettings.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.exe
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.deps.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.runtimeconfig.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.dll
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\VCA.Sparky.Authentication.pdb
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.AssemblyReference.cache
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.AssemblyInfoInputs.cache
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.AssemblyInfo.cs
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.CoreCompileInputs.cache
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.VCA.Sparky.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.VCA.Sparky.Authentication.props
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VCA.Sparky.Authentication.props
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VCA.Sparky.Authentication.props
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.build.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\staticwebassets.development.json
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\scopedcss\bundle\VCA.Sparky.Authentication.styles.css
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.csproj.CopyComplete
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.dll
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\refint\VCA.Sparky.Authentication.dll
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.pdb
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\VCA.Sparky.Authentication.genruntimeconfig.cache
+C:\VCA API\VCA.Sparky.Authentication\VCA.Sparky.Authentication\VCA.Sparky.Authentication\obj\Debug\net6.0\ref\VCA.Sparky.Authentication.dll
